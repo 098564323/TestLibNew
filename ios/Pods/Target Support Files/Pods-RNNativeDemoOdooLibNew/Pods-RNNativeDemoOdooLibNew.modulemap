@@ -1,0 +1,6 @@
+framework module Pods_RNNativeDemoOdooLibNew {
+  umbrella header "Pods-RNNativeDemoOdooLibNew-umbrella.h"
+
+  export *
+  module * { export * }
+}
